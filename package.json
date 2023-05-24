@@ -1,0 +1,23 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "description": "Mi primer ejercicio con Open Bootcamp. Creando un proyecto con node.",
+  "main": "index.js",
+  "scripts": {
+    "ejerccio-1": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo.",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coconsuegra/cursoOpenBootcamp.git"
+  },
+  "keywords": [
+    "ejercicio-1"
+  ],
+  "author": "cconsuegra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coconsuegra/cursoOpenBootcamp/issues"
+  },
+  "homepage": "https://github.com/coconsuegra/cursoOpenBootcamp#readme"
+}
